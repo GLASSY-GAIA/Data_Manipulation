@@ -16,6 +16,9 @@ Notebook 3 | Basic Manipulation | |
 Notebook 4 | Grouping-Merging | | 
 Notebook 5 | Advanced Manipulation | |
 
+Material link
+
+https://www.superdatascience.com/pages/data-manipulation-in-python
 
 ### Motivation 
 When data manipulation and preparation accounts for up to 80% of your work as a data scientist, learning data munging techniques that take raw data to a final product for analysis as efficiently as possible is essential for success.
