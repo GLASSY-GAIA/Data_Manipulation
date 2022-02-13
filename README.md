@@ -6,15 +6,6 @@ OK, so first, as the name from my repo, it's all about data manipulation by expl
 
 ![image](https://user-images.githubusercontent.com/96984414/147878243-6f5370c9-35b1-49c8-a1d4-9cc8fc4fb7a9.png)
 
-### What is in this Repo ?
-
-Notebook | Name | Description
----|---|---
-Notebook 1 | Dataset Basics | |
-Notebook 2 | Visual Exploration | |
-Notebook 3 | Basic Manipulation | |
-Notebook 4 | Grouping-Merging | | 
-Notebook 5 | Advanced Manipulation | |
 
 Material link
 
